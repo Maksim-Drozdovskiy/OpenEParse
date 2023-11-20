@@ -1,8 +1,8 @@
 from utils import authorizer, fix_bads, get_problem, save_to_excel
 
-USERNAME = "YOUR_USERNAME"
-PASSWORD = "YOUR_PASSWORD"
-COURSE_URL = "https://courses.openedu.ru/courses/course-v1:spbstu+MATHPH+fall_2020/courseware/9c203a328aa346eb89da102cbb8813fe/a19be83529304950b32a8d21c1f51af6/1?activate_block_id=block-v1%3Aspbstu%2BMATHPH%2Bfall_2020%2Btype%40vertical%2Bblock%401705783cbc894ddebeb0bb8edc844d7f"
+USERNAME = "MaksimDrozdovskiy"
+PASSWORD = "Mak$1M.O0mm5k!!y"
+COURSE_URL = "https://apps.openedu.ru/learning/course/course-v1:ITMOUniversity+DIGCUL+fall_2023_urfu/block-v1:ITMOUniversity+DIGCUL+fall_2023_urfu+type@sequential+block@f96dc4889d90481cbb0ac9ad85fff14e/block-v1:ITMOUniversity+DIGCUL+fall_2023_urfu+type@vertical+block@6b12a940bb5a46c7bd9d136fd1b82438"
 
 if __name__ == "__main__":
     print("Connecting...")
